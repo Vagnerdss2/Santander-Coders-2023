@@ -2,3 +2,4 @@
 ## Efetuando alterações no README
 * Comando push
 * Comando fetch
+* Comando diff
