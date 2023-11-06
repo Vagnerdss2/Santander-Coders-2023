@@ -3,3 +3,4 @@
 * Comando push
 * Comando fetch
 * Comando diff
+* Comando pull
