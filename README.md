@@ -1,2 +1,3 @@
-## Curso de Git
+# Curso de Git
 ## Efetuando alterações no README
+* Comando push
